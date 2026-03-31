@@ -27,7 +27,7 @@ def djb2_hash(message: str) -> str:
 # Myszkowski Cipher
 # ──────────────────────────────────────────────
 
-KEY = "CRYPTO"
+KEY = "RITHWIK"
 
 
 def get_column_order(key):
